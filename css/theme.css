@@ -102,3 +102,6 @@ footer p,a {
   text-align: center;
   text-decoration: none;
 }
+footer a {
+  font-weight: bold;
+}
