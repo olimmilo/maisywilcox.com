@@ -86,7 +86,7 @@
 }
 
 /*Footer Container */
-.footer {
+footer {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -96,7 +96,7 @@
 }
 
 /* footer text */
-.footer a {
+footer a {
   float: left;
   font-size: 10px;
   color: white;
