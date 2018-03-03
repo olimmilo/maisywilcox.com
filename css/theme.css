@@ -103,5 +103,5 @@ footer p,a {
   text-decoration: none;
 }
 footer a {
-  font-weight: bold;
+  text-decoration: underline;
 }
